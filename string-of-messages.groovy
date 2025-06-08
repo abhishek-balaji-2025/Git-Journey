@@ -20,9 +20,9 @@ pipeline {
             }
         }
 
-        stage("bizarre") {
+        stage("reminder") {
             steps {
-                echo "John's knee grows, friend seems disturbed"
+                echo "always keep yourself well-hydrated"
             }
         }
 
